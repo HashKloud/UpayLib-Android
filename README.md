@@ -78,4 +78,6 @@ public class MainActivity extends AppCompatActivity implements UpayListener{
  <b> You are Good To Go. Happy Coding </b>
  
  
+MIT License
 
+Copyright (c) 2018 HashKloud

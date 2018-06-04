@@ -75,9 +75,9 @@ public class MainActivity extends AppCompatActivity implements UpayListener{
 } 
 ```
 
- <b> You are Good To Go. Happy Coding </b>
+**You are Good To Go. Happy Coding**
  
  
-MIT License
+**MIT License**
 
-Copyright (c) 2018 HashKloud
+**Copyright (c) 2018 HashKloud**
